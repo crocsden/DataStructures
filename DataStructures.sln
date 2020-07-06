@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D5E7A768-053C-4528-AAB2-E028297A3442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreesTest", "Tests\TreeTest\TreesTest.csproj", "{500FBFE9-E762-43C6-B751-A20CBCA85D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{500FBFE9-E762-43C6-B751-A20CBCA85D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500FBFE9-E762-43C6-B751-A20CBCA85D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500FBFE9-E762-43C6-B751-A20CBCA85D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500FBFE9-E762-43C6-B751-A20CBCA85D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{500FBFE9-E762-43C6-B751-A20CBCA85D52} = {D5E7A768-053C-4528-AAB2-E028297A3442}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4835C8DC-A72B-48FE-AEA8-9ECBB03CAC5A}
+	EndGlobalSection
+EndGlobal
